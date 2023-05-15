@@ -1,8 +1,3 @@
-<br />
-
-<p align="center">Hi,welcome my space</p>
-
-<br />
 
 **About me**
 
